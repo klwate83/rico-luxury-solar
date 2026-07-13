@@ -1,0 +1,2 @@
+import ServicePage from "@/components/ServicePage";
+export default function Page(){ return <ServicePage eyebrow="Maintenance & Upgrades" title="Support for existing solar systems." description="Submit an enquiry for inspection, maintenance, expansion or replacement of an existing system." bullets={["System inspection", "Panel and inverter checks", "Battery upgrades", "Capacity expansion", "Performance troubleshooting"]}/> }

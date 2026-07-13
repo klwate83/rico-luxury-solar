@@ -1,0 +1,2 @@
+import ServicePage from "@/components/ServicePage";
+export default function Page(){ return <ServicePage eyebrow="Battery Storage" title="Explore battery backup and stored-energy options." description="Tell us about your property and energy priorities so a suitable partner can assess your requirements." bullets={["Residential battery backup", "Commercial battery solutions", "Hybrid system options", "Backup duration planning", "Existing system integration"]}/> }

@@ -1,0 +1,2 @@
+import ServicePage from "@/components/ServicePage";
+export default function Page(){ return <ServicePage eyebrow="Commercial Solar" title="Commercial solar opportunities built around your operating needs." description="Start a structured enquiry for business solar, battery storage or continuity planning." bullets={["Commercial rooftop solar", "Battery storage", "Energy-cost reduction", "Operational continuity", "Finance and large-system enquiries"]}/> }

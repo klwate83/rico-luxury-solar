@@ -1,0 +1,4 @@
+import PageHero from "@/components/PageHero";
+import QuickQuoteForm from "@/components/QuickQuoteForm";
+import { siteConfig, whatsappLink } from "@/lib/site";
+export default function Page(){ return <><PageHero eyebrow="Contact" title="Speak to the RICO team." description="Start through the form, WhatsApp, email or telephone." /><section className="section-pad"><div className="container-shell grid gap-12 lg:grid-cols-2"><div className="card"><h2 className="text-2xl font-bold text-navy">Contact details</h2><div className="mt-6 grid gap-3"><a href={`tel:${siteConfig.phoneHref}`}>{siteConfig.phoneDisplay}</a><a href={`mailto:${siteConfig.email}`}>{siteConfig.email}</a><a className="font-semibold text-solar" href={whatsappLink("Hi RICO, I would like to discuss a solar enquiry.")}>Open WhatsApp</a><p>{siteConfig.serviceArea}</p></div></div><QuickQuoteForm compact /></div></section></> }

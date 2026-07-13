@@ -1,0 +1,2 @@
+import ServicePage from "@/components/ServicePage";
+export default function Page(){ return <ServicePage eyebrow="Residential Solar" title="Solar guidance for Cape Town homeowners." description="Explore solar, battery storage and upgrade options matched to your household needs." bullets={["Reduce electricity-cost exposure", "Solar and battery combinations", "Backup-power planning", "Existing system upgrades", "Finance-enquiry support"]}/> }
