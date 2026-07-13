@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/leads/route": "/api/leads",
+  "/about/page": "/about",
+  "/contact/page": "/contact",
+  "/battery-storage/page": "/battery-storage",
+  "/commercial-solar/page": "/commercial-solar",
+  "/quick-quote/page": "/quick-quote",
+  "/residential-solar/page": "/residential-solar",
+  "/partner-with-us/page": "/partner-with-us",
+  "/solar-insights/page": "/solar-insights",
+  "/page": "/",
+  "/maintenance-upgrades/page": "/maintenance-upgrades",
+  "/how-it-works/page": "/how-it-works",
+  "/thank-you/page": "/thank-you"
+}

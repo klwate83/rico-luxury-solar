@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/leads/route": "app/api/leads/route.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/battery-storage/page": "app/battery-storage/page.js",
+  "/commercial-solar/page": "app/commercial-solar/page.js",
+  "/quick-quote/page": "app/quick-quote/page.js",
+  "/residential-solar/page": "app/residential-solar/page.js",
+  "/partner-with-us/page": "app/partner-with-us/page.js",
+  "/solar-insights/page": "app/solar-insights/page.js",
+  "/page": "app/page.js",
+  "/maintenance-upgrades/page": "app/maintenance-upgrades/page.js",
+  "/how-it-works/page": "app/how-it-works/page.js",
+  "/thank-you/page": "app/thank-you/page.js"
+}
